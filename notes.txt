@@ -1,0 +1,24 @@
+citaton:
+
+Feldmesser,Jacob. (1987). Computer Hardware. UCI Machine Learning Repository. https://doi.org/10.24432/C5830D.
+
+//or
+
+@misc{misc_computer_hardware_29,
+  author       = {Feldmesser,Jacob},
+  title        = {{Computer Hardware}},
+  year         = {1987},
+  howpublished = {UCI Machine Learning Repository},
+  note         = {{DOI}: https://doi.org/10.24432/C5830D}
+}
+
+//link
+
+https://archive.ics.uci.edu/dataset/29/computer+hardware
+
+-----
+
+
+cpu_data - dataframe object
+
+read_csv assumes first row is categories? need to fix that in data file?
